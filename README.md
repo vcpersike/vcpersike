@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá, Sou o Victor Persike! Desenvolvedor Web</h2>
+  <h2>Olá, Sou o Victor Persike! Desenvolvedor Full Stack</h2>
 </div>
 <div align="center">
   <a href="https://github.com/vcpersike">
