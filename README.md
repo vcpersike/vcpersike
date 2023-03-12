@@ -21,7 +21,8 @@
   <img align="center" alt="Rapha-Moodle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg">
   <img align="center" alt="Rapha-Raspberrypi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
     <img align="center" alt="Rapha-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Rapha-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rapha-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Rapha-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
  
  
