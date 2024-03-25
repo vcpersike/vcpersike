@@ -33,7 +33,6 @@
        <img align="center" alt="Rapha-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 </div>
 
-  Sobre Mim
 <div align="center">
   <p>
     Sou um desenvolvedor full stack com paixão por criar soluções tecnológicas inovadoras. Com experiência em várias tecnologias de front-end e back-end, estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Adoro colaborar com outras pessoas e acredito que o melhor trabalho é feito em equipe.
@@ -42,8 +41,7 @@
     Quando não estou codificando, você pode me encontrar explorando novas tecnologias, contribuindo para projetos de código aberto ou compartilhando conhecimento com a comunidade.
   </p>
 </div>
-##
-Vamos Conectar!
+
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCyViC3FUfN-AwCEwrFLUNqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vcpersike/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
