@@ -8,7 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcpersike&layout=compact&langs_count=7&theme=slateorange"/>
   </a>
 </div>
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block, margin-top: 10px"><br>
   <p>🔧 Tecnologias & Ferramentas</p>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
